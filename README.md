@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rezaul1424
 - 👀 I’m interested in Problem solving and Compitative programming
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA, C++ & DSA 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me gmail (rezaulmursalinkhan@gmail.com)
 - 😄 Pronouns: He/him
